@@ -3,6 +3,10 @@ PROBLEM:
 Given a sentence, reverse the order of its words 
 without affecting the order of letters within a given word.
 
+----------------------
+PATTERN: TWO POINTERS
+----------------------
+
 ''' 
 
 def reverse_words(sentence):

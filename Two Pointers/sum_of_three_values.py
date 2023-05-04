@@ -7,6 +7,12 @@ Return TRUE if three such integers exist in the array. Otherwise, return FALSE.
 
 Note: A valid triplet consists of elements with distinct indexes. This means, for 
 the triplet nums[i], nums[j], and nums[k], i ≠ j, i ≠ k and j ≠ k.
+
+----------------------
+PATTERN: TWO POINTERS
+----------------------
+
+
 """
 
 def find_sum_of_three(nums, target):

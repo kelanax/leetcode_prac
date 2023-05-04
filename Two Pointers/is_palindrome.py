@@ -1,6 +1,11 @@
 ''' 
 PROBLEM: 
 Write a function that takes a string s as input and checks whether it’s a palindrome or not.
+
+----------------------
+PATTERN: TWO POINTERS
+----------------------
+
 '''
 
 def is_palindrome(s):
