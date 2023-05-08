@@ -13,7 +13,7 @@ PATTERN: MERGE INTERVALS
 '''
 
 
-from interval import Interval
+# from interval import Interval
 import heapq
 
 def find_sets(intervals):
