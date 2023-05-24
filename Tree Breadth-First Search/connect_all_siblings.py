@@ -70,8 +70,8 @@ def connect_next_level(node) :
 
             left.next = right
             
-
             if not next_level_head : next_level_head = left
+
         elif current.left :
 
             left = current.left

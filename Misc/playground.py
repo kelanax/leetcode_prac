@@ -14,6 +14,21 @@
 ##############################################################################
 
 '''
+
+
+lists = [[21,23,42],[1,2,4], [10,12], [11]]
+
+x = [[0] * len(li) for li in lists]
+
+print("x:", x)
+
+
+
+
+
+
+
+
   output = [""] * len(input_string) 
     counter = Counter(input_string)
     x = [[-val, key] for key,val in counter.items()]
